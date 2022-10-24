@@ -8,7 +8,7 @@ function App() {
     <div className="Container app-container" role="parent">
       <Row>
         <Col>
-          <h1>Reactでテストチュートリアル</h1>
+          <h1>React Jest Test</h1>
         </Col>
       </Row>
       <Row>
